@@ -33,6 +33,8 @@ The **DeepSeek** implementation simplifies this process by offering a streamline
    - Metrics include retrieval accuracy, generation relevance, and response latency.
 
 ---
+## Architecture 
+![Architecture] rag_architecture.png
 
 ## My Learning and Implementation Steps
 
