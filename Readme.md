@@ -34,7 +34,7 @@ The **DeepSeek** implementation simplifies this process by offering a streamline
 
 ---
 ## Architecture 
-![Architecture] rag_architecture.png
+![Architecture] (rag_architecture.png)
 
 ## My Learning and Implementation Steps
 
